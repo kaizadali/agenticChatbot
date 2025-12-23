@@ -1,0 +1,21 @@
+### 2025-12-22
+- [Brands like Unilever and Coca‑Cola are integrating generative AI into product shoots and content production, saving time and $10 million.](https://www.adweek.com/brand-marketing/9-brands-that-doubled-down-on-ai-in-2025/)
+- [Pope Leo XIV praises AI’s genius but warns it can undermine human learning and moral development.](https://www.foxnews.com/opinion/heres-how-we-can-live-work-artificial-intelligence-without-losing-our-humanity)
+- [Business leaders predict new AI‑native roles, a widening adoption divide, and key 2026 trends.](https://www.forbes.com/sites/annegriffin/2025/12/22/9-ai-predictions-every-business-leader-should-know-for-2026/)
+- [Rockwell Automation outlines an industrial AI maturity pyramid, moving from data integration to autonomous decision‑making.](https://markets.ft.com/data/announce/detail?dockey=600-202512220200PR_NEWS_EURO_ND__EN50869-1)
+- [Chinese AI chip maker Biren Technology plans a $623 million Hong Kong IPO.](https://www.wsj.com/business/chinese-ai-chip-maker-biren-technology-plans-623-million-hong-kong-ipo-a5433f02)
+- [Munich Re and others offer insurance for AI errors to mitigate business risks.](https://insnerds.com/news/us-mortgage-lenders-insure-against-ai-screening-errors?hs_amp=true)
+- [Duke University AI uncovers simple equations behind complex systems like weather and circuits.](http://www.sciencedaily.com/releases/2025/12/251221091237.htm)
+- [Major insurers file 166 AI patents focused on claims, underwriting, and customer service.](https://www.insurancejournal.com/news/national/2025/12/22/851830.htm)
+- [AI accountability intersects with data protection and IP laws, increasing legal exposure for enterprises.](https://www.bwlegalworld.com/article/ai-accountability-emerges-as-the-new-frontier-of-digital-law-for-enterprises-584426)
+- [OncoMark AI framework predicts cancer behaviour by reading the tumour’s molecular “mind.”](https://english.gujaratsamachar.com/news/science-technology/indian-scientists-tap-ai-for-personalised-cancer-therapy)
+- [AI Statecraft study finds privacy top issue in global AI policy proposals.](https://www.mediapost.com/publications/article/411519/ai-statecraftthe-top-news-policy-concerns-for-reg.html?edition=140823)
+- [Nirvana raises $100 million to build AI‑driven commercial trucking insurance.](https://www.finextra.com/newsarticle/47084/ai-based-commercial-trucking-insurer-nirvana-raises-100m)
+- [OpenAI reports improved compute margins in its enterprise business, boosting profitability.](https://seekingalpha.com/news/4533863-openai-is-said-to-boost-enterprise-margins-as-ai-spending-pressures-mount)
+- [India’s AI workforce is expected to exceed 1.25 million by 2027, up from 6–6.5 lakh.](https://www.mixvale.com.br/2025/12/21/indias-ai-workforce-expected-to-more-than-double-to-reach-1-25-million-by-2027-en/)
+
+### 2025-12-21
+- [Nvidia, Broadcom, and Alphabet dominate AI stock news; export controls strain Nvidia demand.](https://ts2.tech/en/ai-stocks-news-today-dec-21-2025-nvidia-broadcom-and-alphabet-set-the-tone-for-2026-as-wall-street-weighs-bubble-risks/)
+- [China launches a new centralized AI internet and a remote‑sensing satellite, prompting US policy response.](https://www.forbes.com/sites/johnwerner/2025/12/21/chinas-new-big-centralized-ai-internet/)
+- [Global markets near all‑time highs, with AI optimism driving investor sentiment.](https://www.economist.com/finance-and-economics/2025/12/21/the-five-biggest-market-developments-of-2025)
+- [FBI ramps up AI tools and forms a technology working group to counter domestic and international threats.](https://nypost.com/2025/12/21/us-news/kash-patel-says-fbi-boosting-ai-use-to-counter-domestic-global-threats/)
